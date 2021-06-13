@@ -31,7 +31,7 @@ export const ProfileCard=styled("ProfileCard")`
 
 display: flex;
 flex-direction: column;
-justify-content:center;
+justify-content:start;
 align-items:center;
 height: 100%;
 background:#F2F2F2;
